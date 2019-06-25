@@ -1,0 +1,9 @@
+const ROAD_WIDTH = 500;
+const ROAD_DISPLAY_HEIGHT = 654;
+const TOTAL_ROAD_HEIGHT = 10700;
+const CAR_HEIGHT = 92.5;
+const CAR_WIDTH = 50;
+const VELOCITY = 0.01;
+
+
+const MY_CAR_POS_FROM_BOTTOM = 10;
